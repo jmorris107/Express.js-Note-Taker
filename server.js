@@ -5,6 +5,7 @@
 
 var express = require("express");
 var fs = require("fs");
+var path = require("path")
 // ==============================================================================
 // EXPRESS CONFIGURATION
 // This sets up the basic properties for our express server
@@ -27,14 +28,16 @@ app.use("/assets", express.static("./assets"));
 // These routes give our server a "map" of how to respond when users visit or request data from various URLs.
 // ================================================================================
 
-require("./routes/apiRoutes")(app);
-require("./routes/htmlRoutes")(app);
+//require("./routes/apiRoutes")(app);
+//require("./routes/htmlRoutes")(app);
 
 // =============================================================================
 // LISTENER
 // The below code effectively "starts" our server
 // =============================================================================
-
+app.get("/", function(req, res){
+    res.sendFile(path.join(__dirname,"./public/index.html"))
+})
 app.listen(PORT, function() {
   console.log("App listening on PORT: " + PORT);
 });
