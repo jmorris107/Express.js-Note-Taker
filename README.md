@@ -37,7 +37,8 @@ Application should allow users to create and save notes.
 Application should allow users to view previously saved notes.
 Application should allow users to delete previously saved notes.
 ```
-![Team Generator image](src/team.generator.image.jpg)
+![Note taker 1](src/Note-taker-1.jpg)
+![Note Taker 2](src/Note-taker-2.jpg)
 
 # Installation
 🗳 <code>Node.js</code>,<code>npm install inquirer</code>,<code>npm install express</code>,<code> Heroku</code>
@@ -47,7 +48,7 @@ Application should allow users to delete previously saved notes.
   
 # Links
 :atom_symbol: [Heroku](https://express-js-note-taker.herokuapp.com/)<br />
-:octocat: Github [repo](https://github.com/jmorris107/Express.js-Note-Taker.github.io)/ account: [jmorris107](https://github.com/<br />
-account: [jmorris107](https://github.com/)<br />
+:octocat: Github [repo](https://github.com/jmorris107/Express.js-Note-Taker.github.io)
+          Github account: [jmorris107](https://github.com/)<br />
 <br />
   
