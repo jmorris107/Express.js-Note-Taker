@@ -45,10 +45,11 @@ Application should allow users to delete previously saved notes.
 
 # Usage
 💻 Open [Heroku](https://express-js-note-taker.herokuapp.com/) link, click "Get Started," enter the titled, enter text under the title, and then click save button at the top-tight corner of the page. If you want to delete the text, click trash can icon on the left. 
+
+![README Generator](src/Note-taker-usage.gif) 
   
 # Links
 :atom_symbol: [Heroku](https://express-js-note-taker.herokuapp.com/)<br />
-:octocat: Github [repo](https://github.com/jmorris107/Express.js-Note-Taker.github.io)
-          Github account: [jmorris107](https://github.com/)<br />
+:octocat: Github [repo](https://github.com/jmorris107/Express.js-Note-Taker.github.io) <br />/Account: [jmorris107](https://github.com/)<br />
 <br />
   
