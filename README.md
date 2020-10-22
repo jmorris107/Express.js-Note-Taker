@@ -1,7 +1,10 @@
 # Express.js-Note-Taker
 
-![node badge](https://img.shields.io/badge/node-v12.19.0-green.svg)
-  ![repo size badge](https://img.shields.io/badge/reposize-6.71MB-blue.svg)
+  ![node badge](https://img.shields.io/badge/node-v12.19.0-green.svg)
+  ![repo size badge](https://img.shields.io/badge/reposize-57KB-blue.svg)
+  ![javascript size badge](https://img.shields.io/badge/JavaAcriptsize-66.2%-yellow.svg)
+  ![html size badge](https://img.shields.io/badge/HTMLsize-22.5%-red.svg)
+  ![css size badge](https://img.shields.io/badge/CSSsize-11.3%-purple.svg)
 
 
   ![Javascript badge](https://img.shields.io/badge/JavaScript-yellow.svg)
@@ -41,7 +44,7 @@ Application should allow users to delete previously saved notes.
 ![Note Taker 2](src/Note-taker-2.jpg)
 
 # Installation
-🗳 <code>Node.js</code>,<code>npm install inquirer</code>,<code>npm install express</code>,<code> Heroku</code>
+🗳 <code>Node.js</code>,<code>npm install</code>,<code>npm install express</code>,<code> Heroku</code>
 
 # Usage
 💻 Open [Heroku](https://express-js-note-taker.herokuapp.com/) link, click "Get Started," enter the titled, enter text under the title, and then click save button at the top-tight corner of the page. If you want to delete the text, click trash can icon on the left. 
@@ -50,6 +53,6 @@ Application should allow users to delete previously saved notes.
   
 # Links
 :atom_symbol: [Heroku](https://express-js-note-taker.herokuapp.com/)<br />
-:octocat: Github [repo](https://github.com/jmorris107/Express.js-Note-Taker.github.io) /Account: [jmorris107](https://github.com/)<br />
+:octocat: Github [Repo](https://github.com/jmorris107/Express.js-Note-Taker.github.io) / [Account](https://github.com/)<br />
 <br />
   
