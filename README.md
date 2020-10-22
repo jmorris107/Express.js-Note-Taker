@@ -1,10 +1,10 @@
 # Express.js-Note-Taker
 
   ![node badge](https://img.shields.io/badge/node-v12.19.0-green.svg)
-  ![repo size badge](https://img.shields.io/badge/reposize-57KB-blue.svg)
-  ![javascriptsize badge](https://img.shields.io/badge/JavaAcript-66.2%-yellow.svg)
-  ![htmlsize badge](https://img.shields.io/badge/HTML-22.5%-red.svg)
-  ![csssize badge](https://img.shields.io/badge/CSS-11.3%-purple.svg)
+  ![repo size badge](https://img.shields.io/badge/repo-size-57-KB-blue.svg)
+  ![javascriptsize badge](https://img.shields.io/badge/JavaScript-size-66.2%-yellow.svg)
+  ![htmlsize badge](https://img.shields.io/badge/HTML-size-22.5%-red.svg)
+  ![csssize badge](https://img.shields.io/badge/CSS-size-11.3%-purple.svg)
 
 
   ![Javascript badge](https://img.shields.io/badge/JavaScript-yellow.svg)
@@ -12,6 +12,8 @@
   ![node.js badge](https://img.shields.io/badge/node.js-green.svg)
   ![express.js](https://img.shields.io/badge/express.js-red.svg)
   ![json](https://img.shields.io/badge/json-orange.svg)
+
+ 
   
   
   # Description
