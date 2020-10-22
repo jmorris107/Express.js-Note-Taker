@@ -7,17 +7,13 @@
   ![Javascript badge](https://img.shields.io/badge/JavaScript-yellow.svg)
   ![jQuery badge](https://img.shields.io/badge/jQuery-blue.svg)
   ![node.js badge](https://img.shields.io/badge/node.js-green.svg)
-  ![inquirer](https://img.shields.io/badge/inquirer-red.svg)
+  ![express.js](https://img.shields.io/badge/express.js-red.svg)
   ![json](https://img.shields.io/badge/json-orange.svg)
   
   
   # Description
   📝 This is an application that can be used to write, save, and delete notes. This application will use an express backend and save and retrieve note data from a JSON file.
-<p>
-<a href="https://youtu.be/KDYLwKzrlbc" rel="nofollow"><g-emoji class="g-emoji" alias="video_camera" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4f9.png">📹</g-emoji>Full video for the functional demonstration of the application is here.</a>
-
-![Team Generator](src/team.generator.gif)
-   
+ 
 
   ## Table of Contents
   - [Description](#description)
@@ -55,7 +51,9 @@ Application should allow users to delete previously saved notes.
 
   
 
-  # Questions❓
-  :octocat: My GitHub link: [jmorris107](https://github.com/)<br />
+  # Links
+  :atom_symbol: [Heroku](https://express-js-note-taker.herokuapp.com/)<br />
+  :octocat: [repo](https://github.com/jmorris107/Express.js-Note-Taker.github.io)<br />
+  My GitHub account: [jmorris107](https://github.com/)<br />
   <br />
    📩 If you have any question, email me here: jenniferinbaranoseidou@gmail.com<br /><br />
