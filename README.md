@@ -50,6 +50,6 @@ Application should allow users to delete previously saved notes.
   
 # Links
 :atom_symbol: [Heroku](https://express-js-note-taker.herokuapp.com/)<br />
-:octocat: Github [repo](https://github.com/jmorris107/Express.js-Note-Taker.github.io) <br />/Account: [jmorris107](https://github.com/)<br />
+:octocat: Github [repo](https://github.com/jmorris107/Express.js-Note-Taker.github.io) /Account: [jmorris107](https://github.com/)<br />
 <br />
   
